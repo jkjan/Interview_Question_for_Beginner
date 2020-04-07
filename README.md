@@ -66,7 +66,7 @@
 
 ### [면접에서 받았던 질문들](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/issues/59)
 
-해당 Issue 에서 실제로 받았던 면접 질문들을 공유할 수 있습니다.
+해당 Issue 에서 실제로 받았던 면접 질문들을 공유할 수 있습니다. !!
 
 ---
 
